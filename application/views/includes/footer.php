@@ -3,7 +3,7 @@
 <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
 <script src="https://getbootstrap.com/docs/4.0/assets/js/vendor/popper.min.js"></script>
 <script src="https://getbootstrap.com/docs/4.0/dist/js/bootstrap.min.js"></script>
-<footer>
-    footer
+<footer class="text-center" style="background-color: #194F2F;">
+    Copyright <?= date('Y')?> Family RV Storage Services
 </footer>
 </body>
