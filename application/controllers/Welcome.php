@@ -64,6 +64,56 @@ class Welcome extends CI_Controller {
         $this->load->view('includes/footer',$data);
     }
 
+    public function sanitation()
+    {
+        $data['title'] = 'On Site Dump Stations';
+        $data['description'] = 'Family RV has onsite dump station for your convenience';
+        $data['keywords'] = '';
+        $data['css'] = array('');
+        $data['js'] = array();
+        $this->load->view('includes/header',$data);
+        $this->load->view('welcome/sanitation',$data);
+        $this->load->view('includes/footer',$data);
 
+    }
+
+    public function washbay()
+    {
+        $data['title'] = 'RV and Camper Wash Bay';
+        $data['description'] = 'Large wash bay adjacent to the lot for easy clean up and parking';
+        $data['keywords'] = '';
+        $data['css'] = array('');
+        $data['js'] = array();
+        $this->load->view('includes/header',$data);
+        $this->load->view('welcome/washbay',$data);
+        $this->load->view('includes/footer',$data);
+
+    }
+
+    public function lowprice()
+    {
+        $data['title'] = 'Low Price and Simple Terms';
+        $data['description'] = 'Family RV Storage offers one low price, and no surprise terms.';
+        $data['keywords'] = '';
+        $data['css'] = array('');
+        $data['js'] = array();
+        $this->load->view('includes/header',$data);
+        $this->load->view('welcome/lowprice',$data);
+        $this->load->view('includes/footer',$data);
+
+    }
+
+    public function security()
+    {
+        $data['title'] = 'Family RV offers peace of mind that you investment is safe.';
+        $data['description'] = 'Family RV Storage offers one low price, and no surprise terms.';
+        $data['keywords'] = '';
+        $data['css'] = array('');
+        $data['js'] = array();
+        $this->load->view('includes/header',$data);
+        $this->load->view('welcome/security',$data);
+        $this->load->view('includes/footer',$data);
+
+    }
 
 }
