@@ -52,12 +52,24 @@
             <div class="card">
                 <div class="card-body">
                     <h2 class="featurette-heading text-left">Address</span></h2>
+
                     <p class="lead text-left">
                         4050 Motherlode Drive<br/>
                         Shingle Springs CA, 95630
                     </p>
                 </div>
             </div>
+
+                <div class="card">
+                    <div class="card-body">
+                        <h2 class="featurette-heading text-left">Mailing Address</span></h2>
+                        <p class="lead text-left">
+                            P.O. Box 1392<br/>
+                            Shingle Springs CA, 95630
+                        </p>
+                    </div>
+                </div>
+
             <div class="card">
                 <div class="card-body">
                     <h2 class="featurette-heading text-left">Phone Number</span></h2>

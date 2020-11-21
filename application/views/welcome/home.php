@@ -12,25 +12,9 @@
             <div class="container">
                 <div class="carousel-caption text-left">
                     <h1>The open road is closer than you think..</h1>
-
                 </div>
             </div>
         </div>
-        <!--
-        <div class="carousel-item">
-            <img class="first-slide" src="http://familyrvstorage.com/images/openroad.jpg" alt="First slide" style="max-width: 100%;">
-            <div class="container">
-                <div class="carousel-caption">
-                    <h1>Fully Paved Secure Lot</h1>
-                    <ul>
-                        <li>24/7 Video Surveillance</li>
-                        <li>Key Card Entry</li>
-                    </ul>
-
-                </div>
-            </div>
-        </div>-->
-
     </div>
 
     <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
@@ -69,37 +53,37 @@
                 <img class="rounded-square" src="http://familyrvstorage.com/images/dumpstation_small.jpg" alt="Generic placeholder image" width="300" >
                 <h2>On Site Dump Station</h2>
                 <p> Self Service Dump station with easy access from the Wash Bay floor</p>
-                <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-4">
                 <img class="rounded-square" src="http://familyrvstorage.com/images/rvwasbay_small.jpg" alt="Generic placeholder image" width="300" >
                 <h2>Large Wash Bay</h2>
                 <p>Wash off the road using your own supplies and equipment in our self service wash bay . </p>
-                <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-4">
-                <img class="rounded-square" src="http://familyrvstorage.com/images/video_small.jpg" alt="Generic placeholder image" width="300" >
-                <h2>Video Surveillance</h2>
-                <p>Our fully lit lot is monitored 24/7, with 7 days video retention.</p>
-                <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+                <img class="rounded-square" src="http://familyrvstorage.com/images/lowprice_small.jpg" alt="Generic placeholder image" width="300" >
+                <h2>Simple Terms and Low Price</h2>
+                <p>A simple pricing structure, with no surprises or hidden charges</p>
+
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-4">
                 <img class="rounded-square" src="http://familyrvstorage.com/images/keypad_small.jpg" alt="Generic placeholder image" width="300" >
                 <h2>Key Code Entry</h2>
                 <p>2 Convienient Key Code protected entrances to our fully paved lot.</p>
-                <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-4">
                 <img class="rounded-square" src="http://familyrvstorage.com/images/paved_small.jpg" alt="Generic placeholder image" width="300" >
-                <h2>100% Paved Lot</h2>
+                <h2>100% Paved / Fully Lit</h2>
                 <p>All Spaces are fully paved. No mud,dust, or gravel to deal with.</p>
-                <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-4">
                 <img class="rounded-square" src="http://familyrvstorage.com/images/video_small.jpg" alt="Generic placeholder image" width="300" >
                 <h2>Video Surveillance</h2>
                 <p>Our fully lit lot is monitored 24/7, with 7 days video retention.</p>
-                <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+
             </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
 

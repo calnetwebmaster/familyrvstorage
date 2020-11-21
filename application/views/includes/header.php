@@ -17,7 +17,7 @@
     <?php if(isset($css)) { foreach($css as $css_){ ?>
         <link type="text/css" href="<?php echo base_url(); ?><?php echo $css_; ?>"  rel="stylesheet" /><!--Style Sheet Reset-->
     <?php }} ?>
-
+    <script  type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAF8pAwxK0vH3YvICczuChcvLyxFheF4Gs"></script>
 </head>
 <body>
 <header>
@@ -35,7 +35,7 @@
                     <a class="nav-link text-white" href="http://familyrvstorage.com/index.php/welcome/aboutus">About Us</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-white" href="#">Location</a>
+                    <a class="nav-link text-white" href="http://familyrvstorage.com/index.php/welcome/location">Location</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-white" href="http://familyrvstorage.com/index.php/welcome/contact">Contact</a>

@@ -31,6 +31,17 @@ class Welcome extends CI_Controller {
 
 	}
 
+    public function location(){
+        $data['title'] = 'About Us : Family RV Storage';
+        $data['description'] = '';
+        $data['keywords'] = 'Our Location';
+        $data['css'] = array('');
+        $data['js'] = array();
+        $this->load->view('includes/header',$data);
+        $this->load->view('welcome/location',$data);
+        $this->load->view('includes/footer',$data);
+    }
+
 	public function aboutus(){
         $data['title'] = 'About Us : Family RV Storage';
         $data['description'] = '';
